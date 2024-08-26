@@ -1,0 +1,59 @@
+.bdy{
+    background-color: rgb(159, 245, 245);
+    
+}
+
+.timer{
+    background-color: rgb(122, 122, 244);
+    color: white;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 60px;
+    border-radius: 12px;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.main-list{
+    background-color: white;
+    width: 33%;
+}
+
+.iptxt{
+    width: 100%;
+    text-align: center;
+    height: 40px;
+  }
+
+  .form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width : 100%;
+  }
+
+  #task-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 40%;
+  }
+
+  .task-div{
+    
+    color: white;
+    background-color: rgb(28, 117, 117);
+    border-radius: 15px;
+  }
